@@ -23,7 +23,7 @@ function validateForm() {
 
 if (registerButton) {
     registerButton.addEventListener('click', function(event) {
-        event.preventDefault(); // Prevent form submission for demonstration purposes
+        event.preventDefault();
         register();
     });
 }
