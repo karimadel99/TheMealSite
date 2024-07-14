@@ -200,10 +200,10 @@ body{
   background-color: #333;
   color: #fff;
   overflow-y: auto;
-  height: 100%; /* Full height */
-  width: 100%; /* Full width */
-  max-width: 100%; /* Ensure it doesn't exceed viewport width */
-  max-height: 100%; /* Ensure it doesn't exceed viewport height */
+  height: 100%; 
+  width: 100%; 
+  max-width: 100%;
+  max-height: 100%; 
   position: relative;
 }
 
