@@ -1,23 +1,4 @@
 
-body {
-  display: flex;
-  flex-direction: row;
-}
-
-@media (max-width: 768px) {
-  body {
-    flex-direction: column;
-  }
-
-  .sidenav {
-    width: 100%; /* Make the sidenav take up full width */
-  }
-
-  .container {
-    margin-top: 20px; /* Add margin to separate content from sidenav */
-  }
-}
-
 body{
     background-color: black;
     color: white;
